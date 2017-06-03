@@ -1,4 +1,8 @@
-# Event Parser
+# Event Metadata Parser
 
-Parses:
-  * Eventbrite
+This small app allows for extracting data from public event webpages on various platforms.
+
+### Supported Platforms
+
+- EventBrite
+
