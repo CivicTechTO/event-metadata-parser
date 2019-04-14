@@ -12,6 +12,10 @@ Markdown(app)
 def help():
     return render_template('help.html')
 
+@app.route('/favicon.ico')
+def favicon():
+    return ''
+
 @app.route('/<path:url>')
 def process(url):
     # Reconstitute url querystrings that flask got greedy with
