@@ -6,3 +6,10 @@ This small app allows for extracting data from public event webpages on various 
 
 - EventBrite
 - Universe
+
+### Usage
+
+```
+pipenv install
+pipenv run gunicorn app:app --log-file -
+```
