@@ -5,4 +5,4 @@ This small app allows for extracting data from public event webpages on various 
 ### Supported Platforms
 
 - EventBrite
-
+- Universe
